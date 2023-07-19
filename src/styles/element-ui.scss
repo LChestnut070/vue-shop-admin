@@ -47,3 +47,9 @@
 .el-range-separator {
   box-sizing: content-box;
 }
+.el-card__header {
+  border-bottom: none;
+}
+.el-card__body {
+  //padding: 0 20px;
+}
